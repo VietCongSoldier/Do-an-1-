@@ -1,0 +1,52 @@
+D:\QuanLyWinDowVaOffice\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.exe
+D:\QuanLyWinDowVaOffice\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.deps.json
+D:\QuanLyWinDowVaOffice\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.runtimeconfig.json
+D:\QuanLyWinDowVaOffice\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.runtimeconfig.dev.json
+D:\QuanLyWinDowVaOffice\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.dll
+D:\QuanLyWinDowVaOffice\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.pdb
+D:\QuanLyWinDowVaOffice\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.csprojAssemblyReference.cache
+D:\QuanLyWinDowVaOffice\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.AssemblyInfoInputs.cache
+D:\QuanLyWinDowVaOffice\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.AssemblyInfo.cs
+D:\QuanLyWinDowVaOffice\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.csproj.CoreCompileInputs.cache
+D:\QuanLyWinDowVaOffice\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.dll
+D:\QuanLyWinDowVaOffice\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.pdb
+D:\QuanLyWinDowVaOffice\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.genruntimeconfig.cache
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.exe
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.deps.json
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.runtimeconfig.json
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.runtimeconfig.dev.json
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.dll
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.pdb
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.csprojAssemblyReference.cache
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.AssemblyInfoInputs.cache
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.AssemblyInfo.cs
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.csproj.CoreCompileInputs.cache
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.dll
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.pdb
+D:\QuanLyWinDowVaOffice-main\QuanLyWinDowVaOffice-main\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.genruntimeconfig.cache
+C:\Users\trant\Desktop\do-an1\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.exe
+C:\Users\trant\Desktop\do-an1\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.deps.json
+C:\Users\trant\Desktop\do-an1\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.runtimeconfig.json
+C:\Users\trant\Desktop\do-an1\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.runtimeconfig.dev.json
+C:\Users\trant\Desktop\do-an1\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.dll
+C:\Users\trant\Desktop\do-an1\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.pdb
+C:\Users\trant\Desktop\do-an1\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.csprojAssemblyReference.cache
+C:\Users\trant\Desktop\do-an1\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.AssemblyInfoInputs.cache
+C:\Users\trant\Desktop\do-an1\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.AssemblyInfo.cs
+C:\Users\trant\Desktop\do-an1\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.csproj.CoreCompileInputs.cache
+C:\Users\trant\Desktop\do-an1\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.dll
+C:\Users\trant\Desktop\do-an1\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.pdb
+C:\Users\trant\Desktop\do-an1\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.genruntimeconfig.cache
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.exe
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.deps.json
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.runtimeconfig.json
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.runtimeconfig.dev.json
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.dll
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\bin\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.pdb
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.csprojAssemblyReference.cache
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.AssemblyInfoInputs.cache
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.AssemblyInfo.cs
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.csproj.CoreCompileInputs.cache
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.dll
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.pdb
+C:\Users\Teiv Hoang\Desktop\Do an 1 - tu nu\obj\Debug\netcoreapp3.1\QuanLyWinDowVaOffice.genruntimeconfig.cache
